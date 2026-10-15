@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+*.local
+test-results
+playwright-report
+blob-report
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
+
+# Local assistant/tooling files
+CLAUDE.md
+.claude/
+.mcp.json
